@@ -5,5 +5,5 @@ Please follow me if you like cool python code.
 
 Screenshot Below:
 
-![image](https://github.com/tech35/Turtle-Graphics-Sorting-Animate/blob/main/sorting%20animation.png?raw=true)
+![screenshot](https://github.com/tech35/Turtle-Graphics-Sorting-Animate/blob/main/sorting.png?raw=true)
 
